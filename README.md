@@ -4,10 +4,12 @@
 
 ## Overview
 LSTM Model is created to predict the closing prices of `S&P BSE SENSEX`.
+
 Sentiment Analysis is done on `Times of India News Headlines`
 
 ## Dataset
 Historical data of S&P BSE SENSEX Stock is taken from `Yahoo Finance`. 
+
 `india-news-headlines.csv` is used for Sentiment Analysis.
 
 ## LSTM Model
